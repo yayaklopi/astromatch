@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MatchMakerTests' target in the 'MatchMakerTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
